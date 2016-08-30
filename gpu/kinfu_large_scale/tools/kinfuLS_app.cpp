@@ -93,6 +93,7 @@ using namespace pcl::gpu::kinfuLS;
 using pcl::gpu::DeviceArray;
 using pcl::gpu::DeviceArray2D;
 using pcl::gpu::PtrStepSz;
+//test
 
 namespace pc = pcl::console;
 
